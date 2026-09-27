@@ -58,3 +58,22 @@ nav a {
     text-align: center;
     border-radius: 8px;
 }
+
+footer {
+    background: #000;
+    padding: 25px 10px;
+    text-align: center;
+    margin-top: 60px;
+}
+
+footer .social a {
+    color: #fff;
+    margin: 0 15px;
+    text-decoration: none;
+    font-size: 16px;
+    font-weight: 500;
+}
+
+footer .social a:hover {
+    color: #f0c040;
+}
